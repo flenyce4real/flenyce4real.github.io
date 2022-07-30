@@ -3,3 +3,8 @@ body {
     font-size: 30px;
     text-shadow: 3px 3px 3px #ababab;
 }
+
+i.aw {
+    font-size: 80px;
+    color: red;
+}
